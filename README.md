@@ -1,4 +1,6 @@
-This project is a simple HTML website featuring recipes of food and drinks I like.
+# Odin Project: Recipes
+
+This project is a simple HTML website featuring recipes of food I like.
 
 Upon completion of this project, I've demonstrated that I learned how to:
 - Create a simple HTML website
